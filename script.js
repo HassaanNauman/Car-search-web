@@ -90,7 +90,7 @@ const carShowroom = {
       car15: {
         model: "Mark X",
         company: "Toyota",
-        image: "./assets/toyota mark x.jpg",
+        image: "./assets/toyota Mark X.jpg",
         price: "$35,000",
       },
       // Ford
